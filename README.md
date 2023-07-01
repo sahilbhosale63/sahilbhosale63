@@ -1,7 +1,5 @@
 ### Hi, I'm Sahil Bhosale! 👋
 
-#![enter image description here](https://github-readme-stats.vercel.app/api?username=sahilbhosale63&&show_icons=true&title_color=1083a1&icon_color=FF362E&text_color=212121&bg_color=fafafc)
-
 ##
 
 <a href="https://twitter.com/sahilbhosale63">
