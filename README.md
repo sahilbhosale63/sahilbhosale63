@@ -11,11 +11,11 @@ I also love sharing knowledge through my blog platform and YouTube channel, Lion
 #### Languages:
 
 <p align="start">
-   <img src="https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-38B2AC?style=for-the-badge&logo=typeScript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Java-38B2AC?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Golang-38B2AC?style=for-the-badge&logo=goland&logoColor=white" alt="Golang">
-  <img src="https://img.shields.io/badge/Sql-38B2AC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+   <img src="https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-008080?style=for-the-badge&logo=typeScript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-008080?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Golang-008080?style=for-the-badge&logo=goland&logoColor=white" alt="Golang">
+  <img src="https://img.shields.io/badge/Sql-008080?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
   
 </p>
 
@@ -48,22 +48,22 @@ Let’s connect and collaborate on exciting opportunities! 🚀
 
 <p align="center">
   <a href="https://liongueststudios.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=website&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/Website-FF7043?style=for-the-badge&logo=website&logoColor=white" alt="Website">
   </a>
   <a href="https://www.linkedin.com/in/sahilbhosale63" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-FF7043?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.youtube.com/liongueststudios" target="_blank">
-    <img src="https://img.shields.io/badge/Youtube-008080?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://img.shields.io/badge/Youtube-FF7043?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
    <a href="https://www.upwork.com/freelancers/~01d671959da2edd88c" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-008080?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+    <img src="https://img.shields.io/badge/Upwork-FF7043?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
   </a>
     <a href="https://leetcode.com/sahilbhosale63" target="_blank">
-    <img src="https://img.shields.io/badge/Leetcode-008080?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode">
+    <img src="https://img.shields.io/badge/Leetcode-FF7043?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode">
   </a>
   <a href="mailto:sahilbhosale63@live.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-FF7043?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
