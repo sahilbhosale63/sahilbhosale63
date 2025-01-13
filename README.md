@@ -2,7 +2,7 @@
 
 ## About Me
 
-A Full Stack Software Engineer passionate about building user-friendly and high-performing web applications. Currently working with the MERN stack at Tweeny Technologies, I’ve improved performance, implemented passwordless authentication, and built scalable systems that enhance user experience.
+A Full Stack Software Engineer passionate about building user-friendly and high-performing web applications. Currently working with the MERN stack at Tweeny Technologies.
 
 I also love sharing knowledge through my blog platform and YouTube channel, LionGuest Studios, where I share about programming, system design, Data structure & Algorithms and more.
 
