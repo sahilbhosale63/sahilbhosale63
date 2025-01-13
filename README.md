@@ -1,41 +1,81 @@
-### Hi, I'm Sahil Bhosale! 👋
+# Hi there 👋, I'm Sahil Bhosale
 
-##
+## About Me
 
-<a href="https://twitter.com/sahilbhosale63">
-  <img align="left" alt="Sahil Bhosale Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+A Full Stack Software Engineer passionate about building user-friendly and high-performing web applications. Currently working with the MERN stack at Tweeny Technologies, I’ve improved performance, implemented passwordless authentication, and built scalable systems that enhance user experience.
 
-<a href="https://linkedin.com/in/sahilbhosale63">
-  <img align="left" alt="Sahil Bhosale Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+I also love sharing knowledge through my blog platform and YouTube channel, LionGuest Studios, where I share about programming, system design, Data structure & Algorithms and more.
 
-<a href="https://github.com/sahilbhosale63">
-  <img align="left" alt="Sahil Bhosale Github" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+### Tools & Technologies:
 
-<a href="https://instagram.com/the_tech_hunter">
-  <img align="left" alt="Sahil Bhosale Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+#### Languages:
 
-<a href="https://www.facebook.com/sahil.bhosale.773">
-  <img align="left" alt="Sahil Bhosale Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+<p align="start">
+   <img src="https://img.shields.io/badge/JavaScript-38B2AC?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-38B2AC?style=for-the-badge&logo=typeScript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-38B2AC?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Golang-38B2AC?style=for-the-badge&logo=goland&logoColor=white" alt="Golang">
+  <img src="https://img.shields.io/badge/Sql-38B2AC?style=for-the-badge&logo=sql&logoColor=white" alt="SQL">
+  
+</p>
 
-<a href="https://www.youtube.com/channel/UCuZc2xBhbCqmTPm04iFLkLA">
-  <img align="left" alt="Sahil Bhosale Youtube" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a>
+#### Technologies:
 
-<!--
-**sahilbhosale63/sahilbhosale63** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+<p align="start">
+  <img src="https://img.shields.io/badge/React JS-764ABC?style=for-the-badge&logo=react&logoColor=white" alt="ReactJS">
+  <img src="https://img.shields.io/badge/Next JS-764ABC?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS">
+  <img src="https://img.shields.io/badge/Node JS-764ABC?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+  <img src="https://img.shields.io/badge/Express JS-764ABC?style=for-the-badge&logo=express&logoColor=white" alt="ExpressJS">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-764ABC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/Material UI-764ABC?style=for-the-badge&logo=mui&logoColor=white" alt="Material-UI">
+  <img src="https://img.shields.io/badge/AWS-764ABC?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Git-764ABC?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-764ABC?style=for-the-badge&logo=linux&logoColor=white" alt="Linux">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Databases
+
+<p align="start">
+  <img src="https://img.shields.io/badge/Mongodb-1572B6?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Postgresql-1572B6?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgresSQL" style="pointer-events: none;">
+  <img src="https://img.shields.io/badge/Graphql-1572B6?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" style="pointer-events: none;">
+</p>
+
+## 📧 Contact Me
+
+Let’s connect and collaborate on exciting opportunities! 🚀
+
+<p align="center">
+  <a href="https://liongueststudios.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-008080?style=for-the-badge&logo=website&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/sahilbhosale63" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.youtube.com/liongueststudios" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-008080?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+   <a href="https://www.upwork.com/freelancers/~01d671959da2edd88c" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-008080?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork">
+  </a>
+    <a href="https://leetcode.com/sahilbhosale63" target="_blank">
+    <img src="https://img.shields.io/badge/Leetcode-008080?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode">
+  </a>
+  <a href="mailto:sahilbhosale63@live.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sahilbhosale63&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbhosale63&theme=react&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbhosale63&hide_progress=true&theme=react" alt="Top Languages">
+</p>
+
+
+---
+
+### ✨ Thanks for visiting my profile!
